@@ -1,0 +1,31 @@
+
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601407.us.archive.org/33/items/fanart.jpg_20200516/bemvindo.png.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601407.us.archive.org/33/items/fanart.jpg_20200516/fanart.jpg.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - MEU PRIMEIRO ADDON CRIADO PELO CANAL DO TONY - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601407.us.archive.org/33/items/fanart.jpg_20200516/entrar.png.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia601407.us.archive.org/33/items/fanart.jpg_20200516/fanart.jpg.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] -AQUI VOCE ENCONTRA TODO PARA O ENTRETENIMENTO DA SUA FAMILHA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
